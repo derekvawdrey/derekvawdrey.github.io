@@ -3,7 +3,7 @@ name: 'Derek Vawdrey'
 description: 'A blog about my personal feelings about many different topics'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/'
 disqus: 'blog'
 email: 'derek.vawdrey@gmail.com'
 
